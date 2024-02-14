@@ -86,7 +86,7 @@ export default function WeatherApp() {
         This Weather App was coded by Joey and
         <a href="https://www.shecodes.io/">sheCodes</a>
         and is
-        <a href="https://github.com/shecodesio/weather">
+        <a href="https://github.com/Joey199-sudo/weather-app-react">
           open-sourced on GitHub
         </a>
         and
